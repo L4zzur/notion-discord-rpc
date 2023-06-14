@@ -53,3 +53,6 @@ pip3 install -r requirements.txt
 ```bash
 python main.py
 ```
+
+# Further updates
+- I would like to wrap this script using the pystray library and assemble it into an exe file, as well as create a GUI and installer.
